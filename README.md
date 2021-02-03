@@ -2,5 +2,8 @@
 
 ## Diagram
 
+![screenshot](Circular_Gene.png)
+
+
 
 
