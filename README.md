@@ -7,7 +7,10 @@
 
 ## Solution
 
-I solved the prompt in Python. The libraries I used was ReportLab and BioPython which is used to parse the genbank file and create a genome digram. 
+The libraries I used was ReportLab and BioPython which is used to parse the genbank file and create a genome digram. 
+After creating a diagram of the genbank file, I added the color feautures to the circular gene diagram.
+I then drew the diagram, configured the labels, and then saved the diagram as a PNG file.
+
 
 
 ## References
